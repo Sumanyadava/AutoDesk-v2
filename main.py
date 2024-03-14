@@ -29,11 +29,11 @@ def get_radio():
         my_label2.configure(text='coding')
 
         # coding 
-        openApp('music')
-        openApp('brave')
-        allignWindow('left')
-        openApp('vscode')
-        app.destroy()
+        # openApp('music')
+        # openApp('brave')
+        # allignWindow('left')
+        # openApp('vscode')
+        # app.destroy()
 
 
 
